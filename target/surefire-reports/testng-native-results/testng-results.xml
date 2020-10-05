@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="160" started-at="2020-09-28T12:11:30 IST" finished-at="2020-09-28T12:11:30 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="160" started-at="2020-09-28T12:11:30 IST" finished-at="2020-09-28T12:11:30 IST">
+      <class name="Arman.Bangalore.mangoTest">
+        <test-method status="PASS" signature="fruit()[pri:0, instance:Arman.Bangalore.mangoTest@5025a98f]" name="fruit" duration-ms="1" started-at="2020-09-28T12:11:30 IST" finished-at="2020-09-28T12:11:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fruit -->
+      </class> <!-- Arman.Bangalore.mangoTest -->
+      <class name="Arman.Bangalore.heelTest">
+        <test-method status="PASS" signature="shoe()[pri:0, instance:Arman.Bangalore.heelTest@2d928643]" name="shoe" duration-ms="14" started-at="2020-09-28T12:11:30 IST" finished-at="2020-09-28T12:11:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoe -->
+      </class> <!-- Arman.Bangalore.heelTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
